@@ -19,6 +19,6 @@ public class HelloController {
 
     @GetMapping("/api/hello")
     public String hello() {
-        return "Hello from the Maven Spring Boot POC!";
+        return "welcome to the AWS sceen nikhil guided by Raj POC!";
     }
 }
